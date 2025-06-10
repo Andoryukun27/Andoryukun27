@@ -10,7 +10,7 @@ Thanks for stopping by! I'm John Andrew — a passionate learner, aspiring devel
 ## 🛠️ Currently Learning
 - Frontend: HTML, CSS, JavaScript
 - Firebase (Realtime Database, Auth)
-- Mobile Dev: Flutter & React Native (exploring both!)
+- Mobile Dev: Java & XML (exploring both!)
 - Version Control with Git & GitHub
 
 ## 🤝 Open to Collaborate On
